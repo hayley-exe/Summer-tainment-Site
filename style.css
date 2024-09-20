@@ -36,7 +36,11 @@ h1 {
 margin-top:100px; ;
 }
 body {
-background: linear-gradient(to top, #2c87ff 0%, #c7e1f5 100%);;
+background: linear-gradient(to top, #2c87ff 0%, #c7e1f5 100%);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
 }
 .words {
   box-shadow: 2px #00acf0;
