@@ -32,3 +32,18 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 }
+.card {
+margin-top:100px; ;
+}
+body {
+background: linear-gradient(to top, #2c87ff 0%, #c7e1f5 100%);;
+}
+.words {
+  box-shadow: 2px #00acf0;
+  background-color: hsl(209, 100%, 94%);
+}
+.intro {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
